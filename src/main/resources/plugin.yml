@@ -1,0 +1,4 @@
+name: ESPHome
+version: '${project.version}'
+main: me.domirusz24.esphome.ESPHome
+api-version: '1.16'
